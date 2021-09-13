@@ -19,5 +19,5 @@ funcionalidade usada em diversos sistemas.
 
 ## Ficaria feiz em receber feedbacks:
 
-E-mail: raphaeldesousalm@gmail.com
+E-mail: raphaeldesousalm@gmail.com <br>
 linkdin: https://www.linkedin.com/in/raphaellima98/
